@@ -9,4 +9,10 @@
 Hi, my name is **Pankaj Kumar**
 
 
-With an entrepreneurial vibe, I blend creativity and a passion for learning, I love to learn about how things work. Proficient and trained in data analytics and prompt engineering, I bring an analytical touch to drive innovation. As your active listener and relationship catalyst, my leadership style is all about vision and initiative. 
+<p>With an entrepreneurial vibe, I blend creativity and a passion for learning, I love to learn about how things work. Proficient and trained in data analytics and prompt engineering, I bring an analytical touch to drive innovation. As your active listener and relationship catalyst, my leadership style is all about vision and initiative.</p> 
+
+
+### My Professional Experience
+  <p align="center">
+<a href="http://www.linkedin.com/in/pankajkumar001707">
+
