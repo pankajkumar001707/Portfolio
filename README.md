@@ -16,7 +16,7 @@ Hi, my name is **Pankaj Kumar**
   <p align="center">
 <a href="http://www.linkedin.com/in/pankajkumar001707">
 
-<p>For the past 1 year, I have been working as a Workflow/Travel Helpdesk Maintenance Executive at Quintes Global for client Zee Entertainment Enterprises Limited. I was able to get much experience in Workflow (iBPS) administration, Data Cleaning and Transformation, Data Visualization, and business communication. Much of my work was centered around Exporting data from system, transforming & preparing statistical reports,	Workflow (iBPS) administration, Approval trail mapping, and WF Rights assignments.</p>
+<p>For the past 1 year, I have been working as a Workflow/Travel Helpdesk Maintenance Executive at Quintes Global for client Zee Entertainment Enterprises Limited. I was able to get much experience in Workflow (iBPS) administration, Data Cleaning and Transformation, Data Visualization, and business communication. Much of my work was centered around Exporting data from system, transforming & preparing statistical reports, Approval trail mapping, and WF Rights assignments.</p>
 
 
 
