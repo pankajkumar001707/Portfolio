@@ -20,4 +20,13 @@ Hi, my name is **Pankaj Kumar**
 
 
 
+
+### My Certifications
+  <p align="center">
+
+<p>1. Data Analytics Essentials by CISCO</p>
+<p>2. Career Essentials in Data Analysis by Microsoft and LinkedIn</p>
+<p>3. Introduction to Prompt Engineering for Generative AI (LinkedIn Learning)</p>
+<p>4. SAP Materials Management (SAP Training Academy)</p>
+
 ...in progress
